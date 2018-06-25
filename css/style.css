@@ -46,7 +46,13 @@ img:hover {
   background-color: #dd4444;
 }
 
-.column 
+.column small{
+  width:33.33%;
+}
+
+.column medium{
+  width:66.67%;
+}
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
