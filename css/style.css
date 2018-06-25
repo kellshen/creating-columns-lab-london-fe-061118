@@ -46,6 +46,11 @@ img:hover {
   background-color: #dd4444;
 }
 
+
+.column{
+  align: left
+}
+
 .small {
   width:33.33%;
 }
