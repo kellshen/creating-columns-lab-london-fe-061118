@@ -50,6 +50,7 @@ img:hover {
 .column{
   display: inline-block;
   vertical-align: middle
+  position: relative;
 }
 
 .small {
