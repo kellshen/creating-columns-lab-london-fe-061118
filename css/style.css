@@ -54,7 +54,7 @@ img:hover {
 
 .small {
   width:100%
-  
+  float: left;
 }
 
 .medium {
