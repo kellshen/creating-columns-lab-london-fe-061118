@@ -48,7 +48,7 @@ img:hover {
 
 
 .column{
-  align: left
+  align-content: center
 }
 
 .small {
