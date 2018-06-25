@@ -55,7 +55,8 @@ img:hover {
 }
 
 .column large {
-  width:100%;
+  width:3x;
+  height:3x;
 }
 
 
