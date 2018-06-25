@@ -46,15 +46,15 @@ img:hover {
   background-color: #dd4444;
 }
 
-.column small {
+.small {
   width:33.33%;
 }
 
-.column medium {
+.medium {
   width:66.67%;
 }
 
-.column large {
+.large {
   width:300%;
   height:300%;
 }
