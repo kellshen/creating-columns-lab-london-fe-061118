@@ -49,19 +49,20 @@ img:hover {
 
 .column{
   display: block;
+  width: 33.33%;
 }
 
 .small {
-  width:100%
+  width:33.33%
   
 }
 
 .medium {
-  width:200%;
+  width:66.67%;
 }
 
 .large {
-  width:300%;
+  width:100%;
 }
 
 
