@@ -52,16 +52,16 @@ img:hover {
 }
 
 .small {
-  width:33.33%;
+  width:100%
+  
 }
 
 .medium {
-  width:66.67%;
+  width:200%;
 }
 
 .large {
   width:300%;
-  height:300%;
 }
 
 
